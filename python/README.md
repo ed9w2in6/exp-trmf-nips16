@@ -21,6 +21,9 @@ Install
 
 Install for MacOS
 =================
+
+> welkinSL: `conda create --name <env> --file <this file>` should work as well
+
     Make sure you have Gnu GCC available in your Mac (you can get it by `brew install gcc`). Assume the GCC version is 8.
     > python3 -m venv trmf-env
 	> source trmf-env/bin/activate
